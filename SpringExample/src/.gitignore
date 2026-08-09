@@ -2,7 +2,7 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
-# IDE - Spring Tool Suite / Eclipse
+# Eclipse / STS
 .classpath
 .project
 .settings/
@@ -15,7 +15,7 @@ target/
 # VS Code
 .vscode/
 
-# OS generated files
+# OS
 .DS_Store
 Thumbs.db
 
@@ -28,6 +28,6 @@ Thumbs.db
 application-local.properties
 application-local.yml
 
-# Temporary files
+# Temporary
 *.tmp
 *.swp
