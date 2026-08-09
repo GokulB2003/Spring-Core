@@ -9,7 +9,7 @@ public class CollectionDependent {
 		ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext("CollectionDependency.xml");
 		CollectionDependency c=(CollectionDependency)context.getBean("p");
 		c.show();
-
+		
 	}
 
 }
